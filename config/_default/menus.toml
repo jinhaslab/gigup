@@ -4,37 +4,37 @@
 #   The weight parameter defines the order that the links will appear in.
 
 [[main]]
-  name = "Demo"
+  name = "소개"
   url = "#hero"
   weight = 10
 
 [[main]]
-  name = "Posts"
+  name = "글"
   url = "#posts"
   weight = 20
 
 [[main]]
-  name = "Projects"
+  name = "프로젝트"
   url = "#projects"
   weight = 30
 
 [[main]]
-  name = "Talks"
+  name = "강연"
   url = "#talks"
   weight = 40
 
 [[main]]
-  name = "Publications"
+  name = "출판"
   url = "#featured"
   weight = 50
 
 [[main]]
-  name = "Courses"
+  name = "강좌"
   url = "courses/"
   weight = 60
 
 [[main]]
-  name = "Contact"
+  name = "연락처"
   url = "#contact"
   weight = 70
 
