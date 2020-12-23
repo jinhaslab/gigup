@@ -24,7 +24,7 @@
   weight = 40
 
 [[main]]
-  name = "출판"
+  name = "간행물"
   url = "#featured"
   weight = 50
 
