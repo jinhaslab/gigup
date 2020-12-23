@@ -29,6 +29,9 @@ experience:
     date_start: '2021-01-13'
     date_end: ''
     description: |2-
+        진행 날짜:
+        * 2021년 1월 13일, 1월 20일
+        
         진행 목적:
         
         * 건강지원체계
