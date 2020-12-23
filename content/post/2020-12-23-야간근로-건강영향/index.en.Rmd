@@ -1,0 +1,30 @@
+---
+title: 야간근로 건강영향
+author: jinhaslab
+date: '2020-12-23'
+slug: 야간근로-건강영향
+categories:
+  - 건강영향
+tags:
+  - 야간근로
+  - 건강영향
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-23T20:39:59+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+ 야간근로에 대한 건강영향을 설명하는 ppt 자료 입니다. 
+ 
+```{r night2020, out.height = "900px", out.width='700px', echo=F}
+knitr::include_graphics("night.pdf")
+```
+
+
+

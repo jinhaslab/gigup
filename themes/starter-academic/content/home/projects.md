@@ -27,6 +27,8 @@ content:
   filter_button:
   - name: All
     tag: '*'
+  - name: 자가검진
+    tag: 자가검진
   - name: Deep Learning
     tag: Deep Learning
   - name: Other

@@ -1,0 +1,30 @@
+---
+title: 2014대리기사 면담
+author: jinhaslab
+date: '2020-12-23'
+slug: 2014대리기사-면담
+categories:
+  - 대리기사
+tags:
+  - 면담
+  - 대리기사
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-23T20:33:07+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+ 2014년에 **대리기사 분들**과 함께 건강을 중심으로 면담을 진행하였다. 이때 나왔던 면담 내용을 정리하였다. 
+ 
+
+```{r daeri2014, out.height = "900px", out.width='700px', echo=F}
+knitr::include_graphics("daeri_qu.pdf")
+```
+
+ 
