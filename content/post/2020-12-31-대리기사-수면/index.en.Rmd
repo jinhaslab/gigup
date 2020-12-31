@@ -25,5 +25,5 @@ projects: []
  <br>
  야간 운전이라는 긴장 때문에 퇴근 후에도 긴장이 지속되서 깊은 잠에 들지 못하는 부분등도 있습니다. 영상을 보고 함께 고민해 봅시다. 
  
- <iframe width="560" height="315" src="https://www.youtube.com/embed/o0VuGwP9TFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+ <iframe width="800" height="500" src="https://www.youtube.com/embed/o0VuGwP9TFo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
