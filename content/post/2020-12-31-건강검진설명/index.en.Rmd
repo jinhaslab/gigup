@@ -1,0 +1,27 @@
+---
+title: 건강검진설명
+author: 조아라
+date: '2020-12-31'
+slug: 건강검진설명
+categories:
+  - 가사관리사
+  - 건강검진
+tags:
+  - 건강검진 사후관리
+  - 건강검진
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2020-12-31T15:59:57+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+ 가사관리사 분과 면담에서 건강검진 후 결과 설명, 어떻게 2차 검진을 받는지, 받게되면 어디서, 얼마의 돈이 드는지 이야기 해주셨습니다. <br>
+ 병원에 대한 정보는 모르면 정말 겁이나게 되어 있으니까요. 회사라면 보건관리자가, 또는 검진기관에서 설명을 해주었을 텐데.. 개인 단위의 플랫폼 노동자는 건강검진 설명 받기가 더 어렵다는 것을 알게되었습니다. 
+ 
+ <iframe width="800" height="500" src="https://www.youtube.com/embed/BAj4OC4JX4Q" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
