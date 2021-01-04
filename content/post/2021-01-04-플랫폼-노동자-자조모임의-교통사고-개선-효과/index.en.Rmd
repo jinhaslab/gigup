@@ -1,0 +1,26 @@
+---
+title: 플랫폼 노동자 자조모임의 교통사고 개선 효과
+author: 김호연
+date: '2021-01-04'
+slug: 플랫폼-노동자-자조모임의-교통사고-개선-효과
+categories:
+  - 자조모임
+  - 사고
+tags:
+  - 사고
+  - 자조모임
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-04T21:13:53+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+ 자조 모임이 플랫폼 노동자의 사고를 예방할 수 있을까요? 김호연 선생님 발표를 들어보시죠
+ 
+ <iframe width="800" height="500" src="https://www.youtube.com/embed/lLisQEPWHkI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -1,0 +1,25 @@
+---
+title: 플랫폼 노동자 심혈관계 위험인자 개선 연구제언
+author: 김호연
+date: '2021-01-04'
+slug: 플랫폼-노동자-심혈관계-위험인자-개선-연구제언
+categories:
+  - 만성질환
+  - 심혈관계
+tags:
+  - 만성질환
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-04T21:15:55+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+ 플랫폼 노동자의 만성질환 관리를 위한 제언, 김호연 선생님의 연구 소개입니다. 
+ 
+ <iframe width="800" height="500" src="https://www.youtube.com/embed/c7SS1GOY0eo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
