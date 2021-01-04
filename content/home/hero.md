@@ -5,7 +5,7 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 10  # Order that this section will appear.
 
-title = "플랫폼 노동자 건강증진"
+title = "플랫폼 노동건강 아이디어톤"
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
 hero_media = "society.jpg"
@@ -40,7 +40,7 @@ hero_media = "society.jpg"
   
 [cta_alt]
 #[cta]
-  url = "https://hacktest.parti.xyz/front/coc"
+  url = "https://giguphs.parti.xyz/front/coc"
   label = "오픈 포럼 광장으로"
   icon_pack ="fas"
   icon = "link"
