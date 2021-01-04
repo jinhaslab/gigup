@@ -1,0 +1,30 @@
+---
+title: 자조모임 팀장 교율을 통한 정신건강 서비스 전달
+author: 김호연
+date: '2021-01-04'
+slug: 자조모임-팀장-교율을-통한-정신건강-서비스-전달
+categories:
+  - 정신건강
+  - 자조모임
+  - 팀장
+  - 보건관리자
+tags:
+  - 정신건강
+  - 자조모임
+  - 팀장
+  - 보건관리자
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-04T21:22:57+09:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+ 플랫폼 노동자가 자조모임을 갖고, 팀장을 중심으로 정신건강 서비스를 전달하는 방식은 과연 효과가 있을까요?
+ 
+ <iframe width="800" height="500" src="https://www.youtube.com/embed/ITfQWri0gf4" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
