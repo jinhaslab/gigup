@@ -22,4 +22,7 @@ url_video: ""
 
 아래 연습중
 
-<iframe width="1300" height="1500" scrolling="yes" frameborder="no"  src="http://jinhaslab.net:3838/self_check/"> </iframe>
+<div class="app">
+<iframe width="700" height="1600" scrolling="yes" frameborder="no"  src="http://jinhaslab.net:3838/self_check/"> </iframe>
+</div>
+

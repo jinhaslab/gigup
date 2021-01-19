@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>건강영향 | GigUpHS</title>
+    <link>/category/%EA%B1%B4%EA%B0%95%EC%98%81%ED%96%A5/</link>
+      <atom:link href="/category/%EA%B1%B4%EA%B0%95%EC%98%81%ED%96%A5/index.xml" rel="self" type="application/rss+xml" />
+    <description>건강영향</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>건강영향</title>
+      <link>/category/%EA%B1%B4%EA%B0%95%EC%98%81%ED%96%A5/</link>
+    </image>
+    
+    <item>
+      <title>야간근로 건강영향</title>
+      <link>/post/%EC%95%BC%EA%B0%84%EA%B7%BC%EB%A1%9C-%EA%B1%B4%EA%B0%95%EC%98%81%ED%96%A5/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/%EC%95%BC%EA%B0%84%EA%B7%BC%EB%A1%9C-%EA%B1%B4%EA%B0%95%EC%98%81%ED%96%A5/</guid>
+      <description>
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;야간근로에 대한 건강영향을 설명하는 ppt 자료 입니다.&lt;/p&gt;
+&lt;embed src=&#34;night.pdf&#34; width=&#34;700px&#34; height=&#34;900px&#34; type=&#34;application/pdf&#34; /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

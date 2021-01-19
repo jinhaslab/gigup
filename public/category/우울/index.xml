@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>우울 | GigUpHS</title>
+    <link>/category/%EC%9A%B0%EC%9A%B8/</link>
+      <atom:link href="/category/%EC%9A%B0%EC%9A%B8/index.xml" rel="self" type="application/rss+xml" />
+    <description>우울</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 04 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>우울</title>
+      <link>/category/%EC%9A%B0%EC%9A%B8/</link>
+    </image>
+    
+    <item>
+      <title>플랫폼 노동자 정신건강 어플리케이션의 우울감 감소 효과</title>
+      <link>/post/%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%85%B8%EB%8F%99%EC%9E%90-%EC%A0%95%EC%8B%A0%EA%B1%B4%EA%B0%95-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EC%9A%B0%EC%9A%B8%EA%B0%90-%EA%B0%90%EC%86%8C-%ED%9A%A8%EA%B3%BC/</link>
+      <pubDate>Mon, 04 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>/post/%ED%94%8C%EB%9E%AB%ED%8F%BC-%EB%85%B8%EB%8F%99%EC%9E%90-%EC%A0%95%EC%8B%A0%EA%B1%B4%EA%B0%95-%EC%96%B4%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98-%EC%9A%B0%EC%9A%B8%EA%B0%90-%EA%B0%90%EC%86%8C-%ED%9A%A8%EA%B3%BC/</guid>
+      <description>
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;플랫폼 노동자 정신건강 증진을 위해 어플을 사용한 내용입니다.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&#34;800&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/NlIoW3L7kt4&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

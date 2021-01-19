@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>건강검진 | GigUpHS</title>
+    <link>/tag/%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84/</link>
+      <atom:link href="/tag/%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84/index.xml" rel="self" type="application/rss+xml" />
+    <description>건강검진</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 31 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>건강검진</title>
+      <link>/tag/%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84/</link>
+    </image>
+    
+    <item>
+      <title>건강검진설명</title>
+      <link>/post/%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84%EC%84%A4%EB%AA%85/</link>
+      <pubDate>Thu, 31 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/%EA%B1%B4%EA%B0%95%EA%B2%80%EC%A7%84%EC%84%A4%EB%AA%85/</guid>
+      <description>
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;가사관리사 분과 면담에서 건강검진 후 결과 설명, 어떻게 2차 검진을 받는지, 받게되면 어디서, 얼마의 돈이 드는지 이야기 해주셨습니다. &lt;br&gt;
+병원에 대한 정보는 모르면 정말 겁이나게 되어 있으니까요. 회사라면 보건관리자가, 또는 검진기관에서 설명을 해주었을 텐데.. 개인 단위의 플랫폼 노동자는 건강검진 설명 받기가 더 어렵다는 것을 알게되었습니다.&lt;/p&gt;
+&lt;p&gt;&lt;iframe width=&#34;800&#34; height=&#34;500&#34; src=&#34;https://www.youtube.com/embed/BAj4OC4JX4Q&#34; frameborder=&#34;0&#34; allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&#34; allowfullscreen&gt;&lt;/iframe&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

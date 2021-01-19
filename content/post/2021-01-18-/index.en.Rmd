@@ -1,0 +1,28 @@
+---
+title: 참여형 포럼회 운영 설명
+author: GigUpHS
+date: '2021-01-18'
+slug: ''
+categories:
+  - 운영 설명
+tags: []
+subtitle: ''
+summary: ''
+authors: []
+lastmod: '2021-01-18T22:49:38+09:00'
+featured: yes
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+
+참여형 포럼 운영 설명 영상입니다.  
+자세한 내용과 자료는 giguphs.org 의 자료집 아래 링크 참고해주세요.
+https://docs.google.com/document/d/187XyP6HeZYUtHteTXx3DKseSB99XIU232GxC59nbnak/edit?usp=sharing
+
+
+<div class="video-container">
+<iframe width="600" height="340" src="https://www.youtube.com/embed/GvBMFZIiQRU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>

@@ -47,4 +47,32 @@ item:
   organization_url: ""
   title: 전국민 고용보험 확대
   url: "http://www.hani.co.kr/arti/society/labor/975583.html"
+  
+  
+- date_end: ""
+  date_start: "2020-12-24"
+  description: ""
+  organization: 한국공제신문
+  organization_url: ""
+  title:  배달라이더 등 플랫폼 종사자 보호법 추진… 공제조합도 검토
+  url: "https://www.kongje.or.kr/news/articleView.html?idxno=1059"
+  
+  
+  
+- date_end: ""
+  date_start: "2020-12-16"
+  description: ""
+  organization: 매일노동뉴스
+  organization_url: ""
+  title:  녹색병원·라이더 유니온 라이더 진료비 지원한다
+  url: "http://www.labortoday.co.kr/news/articleView.html?idxno=200373"
+  
+  
+- date_end: ""
+  date_start: "2020-11-17"
+  description: ""
+  organization: 매일노동뉴스
+  organization_url: ""
+  title:  “사고다발 구역입니다” 배달노동자에게 경고 음성 뜬다”
+  url: "https://www.labortoday.co.kr/news/articleView.html?idxno=16757"
 ---

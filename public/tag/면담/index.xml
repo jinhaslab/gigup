@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>면담 | GigUpHS</title>
+    <link>/tag/%EB%A9%B4%EB%8B%B4/</link>
+      <atom:link href="/tag/%EB%A9%B4%EB%8B%B4/index.xml" rel="self" type="application/rss+xml" />
+    <description>면담</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_2.png</url>
+      <title>면담</title>
+      <link>/tag/%EB%A9%B4%EB%8B%B4/</link>
+    </image>
+    
+    <item>
+      <title>2014대리기사 면담</title>
+      <link>/post/2014%EB%8C%80%EB%A6%AC%EA%B8%B0%EC%82%AC-%EB%A9%B4%EB%8B%B4/</link>
+      <pubDate>Wed, 23 Dec 2020 00:00:00 +0000</pubDate>
+      <guid>/post/2014%EB%8C%80%EB%A6%AC%EA%B8%B0%EC%82%AC-%EB%A9%B4%EB%8B%B4/</guid>
+      <description>
+&lt;link href=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.css&#34; rel=&#34;stylesheet&#34; /&gt;
+&lt;script src=&#34;/rmarkdown-libs/anchor-sections/anchor-sections.js&#34;&gt;&lt;/script&gt;
+
+
+&lt;p&gt;2014년에 &lt;strong&gt;대리기사 분들&lt;/strong&gt;과 함께 건강을 중심으로 면담을 진행하였다. 이때 나왔던 면담 내용을 정리하였다.&lt;/p&gt;
+&lt;embed src=&#34;daeri_qu.pdf&#34; width=&#34;700px&#34; height=&#34;900px&#34; type=&#34;application/pdf&#34; /&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
