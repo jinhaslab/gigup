@@ -4,8 +4,8 @@ external_link: https://jinhaslab.shinyapps.io/fatigue/
 image:
   caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-summary: 피로도 자가 검진 해주세요 `피로도`.
+summary: 심리검사 자가 측정 `피로도`.
 tags:
 - 자가검진
-title: 피로도 자가 검진
+title: 심리검사 자가 측정
 ---
